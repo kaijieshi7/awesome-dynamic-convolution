@@ -8,3 +8,4 @@
 [WeightNet: Revisiting the Design Space of Weight Networks](https://arxiv.org/pdf/2007.11823) Ma N, Zhang X, Huang J, 2020<br/>
 [DyNet: Dynamic Convolution for Accelerating Convolutional Neural Networks](http://de.arxiv.org/pdf/2004.10694.pdf) Zhang Y, Zhang J, Wang Q, 2020<br/>
 [Unified Dynamic Convolutional Network for Super-Resolution with Variational Degradations](https://arxiv.org/pdf/2004.06965.pdf) Xu Y S, Tseng S Y R, Tseng Y, 2020<br/>
+[Context Modulated Dynamic Networks for Actor and Action Video Segmentation with Language Queries](https://aaai.org/ojs/index.php/AAAI/article/view/6895)Wang H, Deng C, Ma F, et al, 2020<br/>
